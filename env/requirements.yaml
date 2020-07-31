@@ -10,6 +10,3 @@ dependencies:
 - name: react-demo-jenkins-x
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: reactapp-test-1
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
